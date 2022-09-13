@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Will 👋
 
-- 🔭 Atualmente trabalhando com desenvolvimento mobile
+- 🔭 Desenvolvedor mobile
 - 📫 contato: will962@live.com
 <div>
   <a href="https://github.com/williamrichard1">
