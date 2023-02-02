@@ -5,7 +5,7 @@
 <div>
   <tr>
     <img height="30em" src = "https://img.shields.io/badge/Flutter-14354C?style=for-the-badge&logo=flutter&logoColor=white">
-    <th>Savings</th>
+   <img height="30em" src = "https://img.shields.io/badge/Dart-14354C?style=for-the-badge&logo=dart&logoColor=white">
   </tr>
 </div>
 
