@@ -15,7 +15,7 @@
 <div>
   <p align="start">
    <tr>
-    <img height="170" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=williamrichard1&hide_border=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=williamrichard1&hide_border=true&theme=tokyonight"/>
    </tr>
 </p>
   
