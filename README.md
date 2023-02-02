@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor mobile
 - 📫 contato: will962@live.com
-<div style= "margin:0 auto;">
+<div style= "margin:10 auto;">
   <tr>
    <img height = "30em" src = "https://img.shields.io/badge/Flutter-54c5f8?style=for-the-badge&logo=flutter&logoColor=white">
    <img height = "30em" src = "https://img.shields.io/badge/Dart-03589c?style=for-the-badge&logo=dart&logoColor=white">
@@ -14,7 +14,7 @@
   </tr>
 </div>
 
-<div style= "margin:0 auto;">
+<div style= "margin:10 auto;">
   <a href="https://github.com/williamrichard1">
  <p align = "center">
     <img height = "180em" src="https://github-readme-streak-stats.herokuapp.com/?user=williamrichard1&layout=compact&langs_count=16&theme=dark"/>
