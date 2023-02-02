@@ -3,7 +3,7 @@
 - 🔭 Desenvolvedor mobile
 - 📫 contato: will962@live.com
 <div>
-![Flutter](https://img.shields.io/badge/Flutter-14354C?style=for-the-badge&logo=flutter&logoColor=white
+<img height="60em" src = "https://img.shields.io/badge/Flutter-14354C?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 <div>
   <a href="https://github.com/williamrichard1">
