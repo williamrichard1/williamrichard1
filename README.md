@@ -13,12 +13,9 @@
 </div>
 
 <div>
-  <p align="start">
    <tr>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=williamrichard1&hide_border=true&theme=tokyonight"/>
    </tr>
-</p>
-  
 </div>
 
 <div>
