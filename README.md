@@ -14,13 +14,7 @@
 
 <div>
 <p align="center">
- <img height="170" width="500" src="https://github-readme-stats.vercel.app/api?username=leandrosantana09&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
- <img height="170" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrosantana09&hide_border=true&theme=tokyonight"/>
-</p>
-<p align="center">  
-  <img height="130" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosantana09&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
+ <img height="170" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=williamrichard01&hide_border=true&theme=tokyonight"/>
 </p>
 </div>
 
