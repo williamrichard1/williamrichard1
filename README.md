@@ -3,7 +3,7 @@
 - 🔭 Desenvolvedor mobile
 - 📫 contato: will962@live.com
 <div style= "margin:0 auto;">
- <p align = "start">
+ <p align = "center">
     <tr>
    <img height = "30em" src = "https://img.shields.io/badge/Flutter-54c5f8?style=for-the-badge&logo=flutter&logoColor=white">
    <img height = "30em" src = "https://img.shields.io/badge/Dart-03589c?style=for-the-badge&logo=dart&logoColor=white">
