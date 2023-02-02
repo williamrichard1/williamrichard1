@@ -13,9 +13,7 @@
 </div>
 
 <div>
-<p align="center">
  <img height="170" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=williamrichard1&hide_border=true&theme=tokyonight"/>
-</p>
 </div>
 
 <div>
