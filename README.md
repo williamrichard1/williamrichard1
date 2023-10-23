@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Will 👋
 
-- 🔭 Desenvolvedor mobile
+- :computer: Flutter Dev
 - 📫 contato: williamrrsilva@outlook.com.br
 <div style= "margin:0 auto;">
  <p align = "center">
