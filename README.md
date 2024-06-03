@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Will 👋
 
-- 👨‍🎓: Bacharel em Ciência da Computação - UNIFEI
+- 👨‍🎓 Formação: Bacharel em Ciência da Computação - UNIFEI
 - :computer: Flutter Dev
 - 📫 contato: williamrrsilva@outlook.com.br
 <div style= "margin:0 auto;">
