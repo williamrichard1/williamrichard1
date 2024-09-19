@@ -13,6 +13,7 @@
    <img height = "30em" src=  "https://img.shields.io/badge/Xcode-222a3c?style=for-the-badge&logo=xcode&logoColor=white">
    <img height = "30em" src=  "https://img.shields.io/badge/firebase-f58410?style=for-the-badge&logo=firebase&logoColor=white">
    <img height = "30em" src=  "https://img.shields.io/badge/Node.Js-4ba95b?style=for-the-badge&logo=node.js&logoColor=white">
+   <img height = "30em" src=  "https://img.shields.io/badge/Nest.Js-4ba95b?style=for-the-badge&logo=nest.js&logoColor=white">
   </tr>
  </p>
 </div>
