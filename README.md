@@ -1,8 +1,8 @@
 ### Olá, Eu sou o Will 👋
 
-- 👨‍🎓 Formação: Bacharel em Ciência da Computação - UNIFEI
-- :computer: Flutter Dev
-- 📫 Contato: williamrrsilva@outlook.com.br
+- 👨‍🎓 Education: Bachelor of Computer Science - UNIFEI (Universidade Federal de Itajubá)
+- :computer: Software Engineer
+- 📫 Contact: williamrrsilva@outlook.com.br
 <div style= "margin:0 auto;">
  <p align = "center">
     <tr>
@@ -17,11 +17,11 @@
  </p>
 </div>
 
- <div style= "margin:0 auto;">
+<!-- <div style= "margin:0 auto;">
   <a href="https://github.com/williamrichard1">
  <p align = "center">
     <img height = "180em" src="https://github-readme-streak-stats.herokuapp.com/?user=williamrichard1&layout=compact&langs_count=16&theme=dark"/>
- </p>
+ </p> -->
 <!-- <p align = "center">
    <tr> 
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=williamrichard1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
